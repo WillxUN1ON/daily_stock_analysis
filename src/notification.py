@@ -75,7 +75,7 @@ SMTP_CONFIGS = {
     # 阿里云
     "aliyun.com": {"server": "smtp.aliyun.com", "port": 465, "ssl": True},
     # 139邮箱
-    "139.com": {"server": "smtp.139.com", "port": 465, "ssl": True},
+    "un1on.cn": {"server": "smtp.exmail.qq.com", "port": 465, "ssl": True},
 }
 
 
